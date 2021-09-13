@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsgm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 *ETH: 0x21Db0BF50a31E59D17ef9eC25AA4B34E3bB4C228*
 
 *BTC: 3JFobYGT9ikebTJsV37aikXExBSATc8SBi*
