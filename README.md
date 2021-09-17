@@ -36,6 +36,9 @@
 ![Clouding.io](https://img.shields.io/badge/Clouding-%230e4c8f.svg?style=for-the-badge&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
+## Other profiles
+- **[WordPress](https://profiles.wordpress.org/jsgm/)**
+
 ## Support my open source work
 - **BTC** `3JFobYGT9ikebTJsV37aikXExBSATc8SBi`
 - **ETH** `0x21Db0BF50a31E59D17ef9eC25AA4B34E3bB4C228`
