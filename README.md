@@ -37,6 +37,7 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
 ## Other profiles
+- **[freeCodeCamp.org](https://freecodecamp.org/jsgm)**
 - **[WordPress](https://profiles.wordpress.org/jsgm/)**
 
 ## Support my open source work
