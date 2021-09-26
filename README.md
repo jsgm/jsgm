@@ -38,6 +38,7 @@
 
 ## Other profiles
 - **[freeCodeCamp.org](https://freecodecamp.org/jsgm)**
+- **[Codewars](https://www.codewars.com/users/jsgm)**
 - **[WordPress](https://profiles.wordpress.org/jsgm/)**
 
 ## Support my open source work
