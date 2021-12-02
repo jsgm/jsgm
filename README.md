@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 ## Languages, tools, frameworks...
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsgm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsgm&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Programming languages** <br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
