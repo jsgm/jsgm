@@ -6,7 +6,6 @@
 - **Programming languages** <br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Solidity](https://img.shields.io/badge/solidity-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 - **Backend** <br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
