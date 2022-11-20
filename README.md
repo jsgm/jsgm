@@ -7,10 +7,10 @@ I'm a full-stack software programmer from Spain, Europe.
 Since I can remember, I've always been near to a computer. I started coding for the curiosity of knowing how a computer works and haven't stopped since then. I love approaching to a wide range of different technologies and programming languages and still today I continue learning and self-improving.
 
 ### Stack
-Those are the main languages I work with.
+Those are the main languages I work with.<br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Golang](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
-When talking about tools and technologies, here are  a few of them.
+When talking about tools and technologies, here are  a few of them.<br>
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white) ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=plastic&logo=googledrive&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=plastic&logo=kalilinux&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-FB542B?style=plastic&logo=Brave&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
 
 ### Public repositories statistics
@@ -23,4 +23,3 @@ From time to time I contribute to Open Source projects, report security bugs or 
 - **BTC** `3JFobYGT9ikebTJsV37aikXExBSATc8SBi`
 - **ETH** `0x21Db0BF50a31E59D17ef9eC25AA4B34E3bB4C228`
 - **BAT** `0x80C13c72F8066d4dE181df156cF6A7459969f6E3`
-- 
