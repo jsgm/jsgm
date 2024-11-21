@@ -17,9 +17,3 @@ Since I can remember, I've always been near to a computer. I started coding for 
 
 ### Check out my profiles
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=plastic&logo=codewars&logoColor=grey)](https://www.codewars.com/users/jsgm) [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)](https://profiles.wordpress.org/jsgm/) [![Freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=plastic&logo=freecodecamp&logoColor=green)](https://freecodecamp.org/jsgm) [![HackerOne](https://img.shields.io/badge/-HackerOne-%23494649?style=plastic&logo=hackerone&logoColor=white)](https://hackerone.com/jsgm)
-
-### Support my open source work
-From time to time I contribute to Open Source projects, report security bugs or just share small libraries. If you'd like to support my work consider buying me a coffee!
-- **BTC** `3JFobYGT9ikebTJsV37aikXExBSATc8SBi`
-- **ETH** `0x21Db0BF50a31E59D17ef9eC25AA4B34E3bB4C228`
-- **BAT** `0x80C13c72F8066d4dE181df156cF6A7459969f6E3`
